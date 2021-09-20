@@ -1,1 +1,1 @@
-# default_dapps
+# Default Dapps included in K9 Wallet

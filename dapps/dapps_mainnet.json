@@ -1,0 +1,14 @@
+[
+  {
+    "name": "UniSwap V3",
+    "key": "univ3",
+    "chain": "eth",
+    "address": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+  },
+  {
+    "name": "ShibaSwap",
+    "key": "shibaswap",
+    "chain": "eth",
+    "address": "0x03f7724180AA6b939894B5Ca4314783B0b36b329"
+  }
+]
